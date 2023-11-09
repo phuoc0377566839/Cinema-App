@@ -1,0 +1,6 @@
+[submodule "AppFilm"]
+	path = AppFilm
+	url = https://github.com/HoangMylb/AppFilm.git
+[submodule "webAdmin"]
+	path = webAdmin
+	url = https://github.com/HoangMylb/webAdmin.git
